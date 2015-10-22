@@ -1,0 +1,9 @@
+Ingredients:
+-Bread
+-Preferred topping (hummus, jam, etc)
+
+Directions:
+1. Plug in toaster
+2. Slice bread and place in toaster
+3. Activate toaster on desired toast setting
+4. After toasting is complete, spread pereferred topping on toast slices while still warm, or dip toast while eating.
